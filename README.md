@@ -1,6 +1,8 @@
 # Tictactoe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
+<img width="1392" alt="tictactoe" src="https://user-images.githubusercontent.com/43390744/99133923-812cd380-25e1-11eb-811a-0e084ce81e67.png">
+
 
 ## Development server
 
