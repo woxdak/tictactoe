@@ -1,0 +1,21 @@
+.board {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    color: #ffffff;
+}
+
+.status {
+    color: black;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+.new-game {
+    width:100%;
+}
+
+.piece{
+    background-color: red;
+}
